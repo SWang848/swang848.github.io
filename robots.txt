@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://swang848.github.io/swang848.github.io//sitemap.xml
+Sitemap: https://swang848.github.io/sitemap.xml
